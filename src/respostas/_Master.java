@@ -1,14 +1,14 @@
 package respostas;
 
-public class Master {
+public class _Master {
 
 	public static void main(String[] args) {
 		System.out.println("Start~~");
 		
-		TwoSum.solution();
+		//TwoSum.solution();
 
 		
 		System.out.println("~~End");
 	}
-
+	
 }
