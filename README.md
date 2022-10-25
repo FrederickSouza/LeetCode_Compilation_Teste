@@ -1,2 +1,2 @@
 # LeetCode_Compilation
- a compilation of answers for popular Leetcode.
+ A compilation of answers and resolutions for popular Leetcode.
