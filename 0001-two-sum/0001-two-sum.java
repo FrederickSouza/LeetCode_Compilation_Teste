@@ -7,6 +7,7 @@ class Solution {
 			}
 		}
 		//txt
+        System.out.println("nenhum encontrado");
 		return new int[] {0, 0};
 	}
 }
