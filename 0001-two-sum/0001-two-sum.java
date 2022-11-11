@@ -5,10 +5,8 @@ class Solution {
 				if (nums[i] + nums[j] == target)
 					return new int[] {i,j};
 			}
-		}
-		//txt
-        System.out.println("nenhum encontrado");
-        //se isso for pro github, conferir bug ao clicar em Solution, sem Submit
+		} System.out.println("nenhum encontrado");
+        //Teste
 		return new int[] {0, 0};
 	}
 }
