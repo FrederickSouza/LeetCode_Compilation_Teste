@@ -8,6 +8,7 @@ class Solution {
 		}
 		//txt
         System.out.println("nenhum encontrado");
+        //se isso for pro github, conferir bug ao clicar em Solution, sem Submit
 		return new int[] {0, 0};
 	}
 }
