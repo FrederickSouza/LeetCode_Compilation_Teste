@@ -8,9 +8,7 @@ class Solution {
             }
             
         }
-        //test leethub
+        //test leethub - update?
         return prefix;
-        
-        
     }
 }
